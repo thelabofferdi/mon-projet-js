@@ -1,0 +1,9 @@
+{
+  "name": "mon-projet-js",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "main.js",
+  "dependencies": {
+    "rodiumai": "latest"
+  }
+}
